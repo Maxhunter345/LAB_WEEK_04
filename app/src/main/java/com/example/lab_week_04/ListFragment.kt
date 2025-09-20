@@ -6,7 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.Navigation
-import com.example.lab_week_04.R
 
 class ListFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
